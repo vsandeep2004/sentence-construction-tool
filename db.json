@@ -1,0 +1,24 @@
+{
+  "status": "SUCCESS",
+  "data": {
+    "questions": [
+      {
+        "questionId": "b28af948-db8b-465e-92e6-3d42534c4533",
+        "question": "The company's _____________ approach to product development _____________ customer feedback at every stage, _____________ user satisfaction and _____________ a loyal consumer base.",
+        "options": [
+          "Incorporated",
+          "User-centric",
+          "Enhancing",
+          "Cultivating"
+        ],
+        "correctAnswer": [
+          "User-centric",
+          "Incorporated",
+          "Enhancing",
+          "Cultivating"
+        ]
+      }
+    ]
+  },
+  "message": "Questions fetched successfully"
+}
